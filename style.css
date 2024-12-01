@@ -1,0 +1,37 @@
+*{
+   
+    font-family: "Indie Flower", cursive;
+    color: #fff;
+    background-image: url(images/dado.jpg);
+    background-size: cover;
+}
+h1{
+    margin: 2rem;
+    text-shadow: 4px #000;
+    font-size: 3rem;
+    color: #0ef;
+}
+h2{
+    font-size: 2rem;
+    color: #4ecc4e;
+}
+img{
+    width: 80%;
+    background: transparent;
+}
+footer{
+    margin:10.5REM ;
+    text-align: center;
+    font-size: 1rem;
+    color: #0ef;
+}
+.container{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    
+}
+.dado{
+    display: inline-block;
+    text-align: center;
+}
